@@ -48,7 +48,7 @@
 
 ### Deploy
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![PM2](https://img.shields.io/badge/PM2-2B037A?logo=pm2&logoColor=white&style=for-the-badge)
+![PM2](https://img.shields.io/badge/PM2-2B037A?logo=pm2&logoColor=white&style=flat-square)
 
 ---
 
