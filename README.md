@@ -35,11 +35,6 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=orazchollaev&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0d1117&title_color=00DC82&icon_color=42B883&text_color=ffffff" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orazchollaev&layout=compact&theme=vue-dark&hide_border=true&bg_color=0d1117&title_color=00DC82&text_color=ffffff" height="170" />
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=orazchollaev&theme=vue-dark&hide_border=true&background=0d1117&ring=00DC82&fire=42B883&currStreakLabel=00DC82" />
 
 </div>
