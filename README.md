@@ -2,7 +2,7 @@
 
 [![committers.top badge](https://user-badge.committers.top/turkmenistan_private/orazchollaev.svg)](https://user-badge.committers.top/turkmenistan_private/orazchollaev)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:42B883,100:00DC82&height=180&section=header&text=Hi%2C%20I'm%20Oraz%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%40SadaZehin&descAlignY=58&descColor=ffffff&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:42B883,100:00DC82&height=180&section=header&text=Hi%2C%20I'm%20Oraz%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%40SadaZehin&descAlignY=58&descColor=ffffff&descSize=19" width="100%" />
 
 <br/>
 
