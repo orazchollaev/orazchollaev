@@ -35,7 +35,7 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=orazchollaev&theme=vue-dark&hide_border=true&background=0d1118&ring=00DC82&fire=42B883&currStreakLabel=00DC82" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=orazchollaev&theme=vue-dark&hide_border=true&background=0d1118&ring=00DC82&fire=42B883&currStreakLabel=00DC83" />
 
 </div>
 
