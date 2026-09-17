@@ -1,4 +1,4 @@
-<img src="https://github.com/orazchollaev/orazchollaev/blob/main/bear.png?raw=true" width="150" height="150" />
+<img src="https://media1.tenor.com/m/OtszF9sTwc4AAAAd/phatearl.gif" width="150" height="250" />
 
 ~ whoami
 
