@@ -1,3 +1,5 @@
+<img src="https://github.com/orazchollaev/orazchollaev/blob/main/bear.png?raw=true" width="150" height="150" />
+
 ~ whoami
 
 > just another guy who likes to code
