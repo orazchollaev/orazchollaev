@@ -1,4 +1,4 @@
-<img src="https://media1.tenor.com/m/OtszF9sTwc4AAAAd/phatearl.gif" width="150" height="250" />
+<img src="https://media1.tenor.com/m/OtszF9sTwc4AAAAd/phatearl.gif" width="150" height="200" />
 
 ~ whoami
 
